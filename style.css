@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -136,11 +137,16 @@ h4 {
 }
 
 button {
+     font-family: OCR A Std, monospace;
      display: block;
      margin: 0 auto;
      background-color: #431e8f;
      color: #e303fc;
-     font-family: Verdana, sans-serif;
+     font-size: 25px;
+     width: 500px;
+     height: 85px;
+     font-weight: bold;
+     font-style: italic;
     }
 
 h3 {
