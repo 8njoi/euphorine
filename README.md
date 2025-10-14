@@ -10,7 +10,6 @@ I honestly decided to do this because I got bored and just in case they nuke the
 - [@8njoi](https://www.github.com/8njoi)
 
 
-## 
 
 ![Static Badge](https://img.shields.io/badge/IG:%20@8njoi%20-8A2BE2)
 ![Static Badge](https://img.shields.io/badge/DC:%20@8njoi%20-7289DA)
