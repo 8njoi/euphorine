@@ -8,7 +8,7 @@
 body {
   min-height: 100vh;
   background: linear-gradient(to bottom, #0b0b2b, #1b2735 70%, #090a0f);
-  overflow: auto;
+  overflow: hidden;
 }
 
 .stars {
@@ -136,27 +136,34 @@ h4 {
     font-family: Verdana, sans-serif;
 }
 
-button {
-     font-family: OCR A Std, monospace;
-     display: block;
-     margin: 0 auto;
-     background-color: #431e8f;
-     color: #e303fc;
-     font-size: 25px;
-     width: 500px;
-     height: 85px;
-     font-weight: bold;
-     font-style: italic;
-    }
-
-h3 {
-    background-color: #431e8f;
+.myButton {
+    box-shadow: inset 0px 1px 0px 0px #e184f3;
+    background: linear-gradient(to bottom, #c123de 5%, #a20dbd 100%);
+    background-color: #c123de;
+    border-radius: 6px;
+    border: 1px solid #a511c0;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Impact;
+    font-size: 20px;
+    font-style: italic;
+    padding: 32px 76px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
-    color: #e303fc;
-    font-family: Verdana, sans-serif;
+    text-decoration: none;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #a20dbd 5%, #c123de 100%);
+	background-color:#a20dbd;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
 }
 
-h6 {
+h3 {
     background-color: #431e8f;
     text-align: center;
     color: #e303fc;
