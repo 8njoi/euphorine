@@ -131,4 +131,21 @@ li {
 h4 {
     background-color: #431e8f;
     text-align: center;
+    color: #e303fc;
+    font-family: Verdana, sans-serif;
+}
+
+button {
+     display: block;
+     margin: 0 auto;
+     background-color: #431e8f;
+     color: #e303fc;
+     font-family: Verdana, sans-serif;
+    }
+
+h3 {
+    highlight-color: #431e8f;
+    text-align: center;
+    color: #e303fc;
+    font-family: Verdana, sans-serif;
 }
