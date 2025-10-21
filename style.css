@@ -181,3 +181,10 @@ h6 {
     color: #e303fc;
     font-family: Verdana, sans-serif;
 }
+
+h5 {
+    background-color: #9ff9fc;
+    text-align: center;
+    color: #ff0008;
+    font-family: Verdana, sans-serif;
+}
